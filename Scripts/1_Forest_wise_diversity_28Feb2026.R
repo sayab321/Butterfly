@@ -1,5 +1,5 @@
 ##########################################################
-#Forest wise butterfly diversity
+# Forest-wise butterfly diversity
 ##########################################################
 #libraries
 #install.packages("iNEXT"); install.packages("ggthemes")
@@ -8,7 +8,7 @@ library(iNEXT); library(ggthemes); library(ggplot2); library(readxl); library(pa
 #load data
 forest_data <- read_excel("~/Desktop/DataAnalysis/1_Forest_wise_diversity.xlsx")
 
-# Save the data to a CSV in the same folder
+# Save the data to a CSV
 #write.csv(forest_data, "~/Desktop/DataAnalysis/1_Forest_wise_diversity.csv", row.names = FALSE)
 
 # Extract the species column and convert it to a character vector
