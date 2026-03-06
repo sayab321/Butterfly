@@ -3,7 +3,7 @@
 ##############################
 rm(list=ls())
 #load libraries
-library(lme4); library(glmmTMB); library(dplyr); library(tidyr); library(DHARMa); library(ggplot2); library(MASS); library(readxl); library(patchwork)
+library(lme4); library(glmmTMB); library(dplyr); library(tidyr); library(DHARMa); library(ggplot2); library(readxl); library(patchwork)
 library(sjPlot); library(ggeffects)
 
 butterfly <- read_excel("~/Desktop/DataAnalysis/6_GLLM_data.xlsx")
