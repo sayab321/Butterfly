@@ -1,1 +1,1 @@
-This repo contains all the data, scripts, and figures related to "Seasonal Variation of Butterfly Diversity in Subtropical Urban Forests of Nepal"
+This repository contains all the data, scripts, and figures related to "Seasonal Variation of Butterfly Diversity in Subtropical Urban Forests of Nepal", which is published in Ecology and Evolution, doi: https://doi.org/10.1002/ece3.73936.
